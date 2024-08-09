@@ -1,7 +1,7 @@
 # Introduction
 Hey there!
 This is Jason Pieck, 2022 Alumni of Team 4153 - Project Y!
-I have spent the better part of the past two months remaking the logo that I made back in 2019, I am so excited to share this new verison with you!
+In this repo, you will find all the files you need for your Project Y branding. Please read the information below to get started. If you have any questions, dont be afraid to reach out!
 
 # Navigating the folders:
 - Folders are first broken down by color, then by type.
@@ -29,9 +29,9 @@ File names are comprised of the following:
 |            | `Large` (1024x1024 pxl)  |
 |            | `Huge` (2048x2048 pxl)   |
 
-If you need larger, export directly from the .svg which all have a base resolution of 512x512
-If you would like to edit the logo, please use InkScape to edit the "2022 Project Y Logo 2022 Redesign File"
-BEFORE YOU EDIT, install the correct font (Fredoka One)
+If you need larger, export directly from the .svg which all have a base resolution of 512x512.
+If you would like to edit the logo, please use InkScape to edit the "2022 Project Y Logo 2022 Redesign File".
+**Before you edit**, install the correct font (Fredoka One).
 
 # Suggestions:
 - Do not use the Cyan logos unless printing on a white surface. The defualt should always take precedence. 
