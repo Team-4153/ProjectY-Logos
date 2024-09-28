@@ -1,4 +1,4 @@
-# Introduction
+# Introduction 
 Hey there!
 This is Jason Pieck, 2022 Alumni of Team 4153 - Project Y!
 In this repo, you will find all the files you need for your Project Y branding. Please read the information below to get started. If you have any questions, dont be afraid to reach out!
